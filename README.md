@@ -220,3 +220,8 @@ is its own crate, licensed **AGPL-3.0** because it links `postflop-solver`
 derivative work, so they ship with the permissively-licensed trainer.
 
 Not legal advice — AGPL's network/derivative-work terms matter if you ship this.
+
+## Acknowledgements
+
+- [Skymizer](https://skymizer.com/) for the computing power that solved much
+  of the preflop charts and postflop tables.
